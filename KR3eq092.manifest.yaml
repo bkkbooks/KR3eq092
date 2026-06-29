@@ -1,0 +1,267 @@
+canonical_identifier: bkk:krp/KR3eq092/v1
+canonical_location: https://kanripo.org/bkk/KR3eq092/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫醫小草
+  identifiers:
+    krp: KR3eq092
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq092.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq092_000.yaml, hash: 'sha256:37afd8f2f7adcffc7e6fecfa264eb18c545b4e27f468595a23faf7c11423b23a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq092_000.markers.yaml, hash: 'sha256:3eeaf17b6f7e0e270458b35c854ab73ef893d0f907ab209813f3121ca2847856'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 322
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d3.h1s1
+    span:
+    - front
+    - 322
+    - 796
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d4.h1s1
+    span:
+    - front
+    - 796
+    - 1154
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d5.h1s1
+    span:
+    - front
+    - 1154
+    - 1407
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d6.h1s1
+    span:
+    - front
+    - 1407
+    - 1606
+  label: 遊藝志略自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1521
+  label: 精義匯通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d8.h1s1
+    span:
+    - body
+    - 1521
+    - 1649
+  label: 六經提綱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d9.h1s1
+    span:
+    - body
+    - 1649
+    - 1819
+  label: 六字真言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d10.h1s1
+    span:
+    - body
+    - 1819
+    - 2047
+  label: 六氣便解
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d11.h1s1
+    span:
+    - body
+    - 2047
+    - 2544
+  label: 醫經補正
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d12.h1s1
+    span:
+    - body
+    - 2544
+    - 2612
+  label: 治病法解一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d13.h1s1
+    span:
+    - body
+    - 2612
+    - 2695
+  label: 治病法解二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d14.h1s1
+    span:
+    - body
+    - 2695
+    - 3070
+  label: 素問摘要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d15.h1s1
+    span:
+    - body
+    - 3070
+    - 3496
+  label: 三證合參
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d16.h1s1
+    span:
+    - body
+    - 3496
+    - 3585
+  label: 說寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d17.h1s1
+    span:
+    - body
+    - 3585
+    - 3690
+  label: 說溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d18.h1s1
+    span:
+    - body
+    - 3690
+    - 3839
+  label: 風溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d19.h1s1
+    span:
+    - body
+    - 3839
+    - 4079
+  label: 濕溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d20.h1s1
+    span:
+    - body
+    - 4079
+    - 4331
+  label: 說疫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d21.h1s1
+    span:
+    - body
+    - 4331
+    - 4634
+  label: 辨證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d22.h1s1
+    span:
+    - body
+    - 4634
+    - 4701
+  label: 治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d23.h1s1
+    span:
+    - body
+    - 4701
+    - 4978
+  label: 指南
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d24.h1s1
+    span:
+    - body
+    - 4978
+    - 5061
+  label: 審脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq092_jc_000-d25.h1s1
+    span:
+    - body
+    - 5061
+    - 12335
+  label: 附遊藝志略
+  type: section
+  level: 1
+hash: sha256:d583f420e64f076d5083b27d606047d4567faa246b415111c8f0e70ec93ff930
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
