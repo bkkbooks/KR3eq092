@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq092_000.yaml, hash: 'sha256:37afd8f2f7adcffc7e6fecfa264eb18c545b4e27f468595a23faf7c11423b23a'}
+  - {seq: 0, filename: KR3eq092_000.yaml, hash: 'sha256:3e2f70c88455ac75d6997b5152925158e930ea4f8afc412ade101a990429f19e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq092_000.markers.yaml, hash: 'sha256:3eeaf17b6f7e0e270458b35c854ab73ef893d0f907ab209813f3121ca2847856'}
+  - {seq: 0, role: markers, filename: assets/KR3eq092_000.markers.yaml, hash: 'sha256:3d540f47f0378124dfd69eba9ec99d06a824f392af2e5035366195d052e10c97'}
 table_of_contents:
 - ref:
     seq: 0
@@ -261,7 +261,4 @@ table_of_contents:
   label: 附遊藝志略
   type: section
   level: 1
-hash: sha256:d583f420e64f076d5083b27d606047d4567faa246b415111c8f0e70ec93ff930
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b3c0c1e7fc8f46d7e9b8339f6a0809045486d7e80875db7ff9e3fe3d0cd2983e
